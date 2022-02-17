@@ -1,0 +1,3 @@
+List solusi pada kata 6 Kyu :
+
+1. create_phone_number.py
