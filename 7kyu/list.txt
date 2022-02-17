@@ -1,0 +1,5 @@
+List Solusi kata pada 7 Kyu :
+
+1. middle_char.py
+2. slope_of_line.py
+3. vowels_count.py
