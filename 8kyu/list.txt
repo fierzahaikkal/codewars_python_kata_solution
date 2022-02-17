@@ -1,0 +1,5 @@
+Solusi pada kata 8 Kyu :
+
+1. count_sum.py
+2. hellow_no_string.py
+3. palindrome.py
