@@ -1,2 +1,2 @@
 # codewars_python_kata_solution
-solusi kata pada codewars sebagai referensi
+solusi kata pada codewars sebagai referensi dan catatan
